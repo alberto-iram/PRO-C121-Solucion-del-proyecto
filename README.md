@@ -1,4 +1,4 @@
-# PROC121-V1-solucion-proyecto
+# PROC121-solucion-proyecto
 Reconocimiento de gestos de mano.  
 Python. MediaPipe.  
   
